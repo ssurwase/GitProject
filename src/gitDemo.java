@@ -5,6 +5,8 @@ public class gitDemo {
 
 		
 		System.out.println("Welcome to Git Java World");
+		
+		System.out.println("Adding new line");
 	}
 
 }
